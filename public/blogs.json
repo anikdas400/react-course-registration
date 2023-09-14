@@ -1,0 +1,103 @@
+[
+    {
+      "id": 101,
+      "course_name": "Introduction to Programming",
+      "img": "https://i.ibb.co/n3V2Twx/Rectangle-2.png",
+      "credit": 1,
+      "price": 15000,
+      "details": "Learn the basics of Python programming from scratch.",
+      "category": "Programming",
+      "phone_number": "(555) 123-4567",
+      "stock_quantity": 50
+    },
+    {
+      "id": 202,
+      "course_name": "Digital Marketing Fundamentals",
+      "img": "https://i.ibb.co/27rMgrk/Rectangle-2-1.png",
+      "credit": 2,
+      "price": 25000,
+      "details": "Explore the world of digital marketing and its core concepts.",
+      "category": "Marketing",
+      "phone_number": "(555) 234-5678",
+      "stock_quantity": 75
+    },
+    {
+      "id": 303,
+      "course_name": "Graphic Design Essentials",
+      "img": "https://i.ibb.co/PZGGnVk/Rectangle-2-2.png",
+      "credit": 10,
+      "price": 10000,
+      "details": "Master the fundamentals of graphic design and create stunning visuals.",
+      "category": "Design",
+      "phone_number": "(555) 345-6789",
+      "stock_quantity": 40
+    },
+    {
+      "id": 404,
+      "course_name": "Introduction to Machine Learning",
+      "img": "https://i.ibb.co/CJhXNXz/Rectangle-2-3.png",
+      "credit": 5,
+      "price": 19000,
+      "details": "Dive into the world of machine learning and build predictive models.",
+      "category": "Data Science",
+      "phone_number": "(555) 456-7890",
+      "stock_quantity": 60
+    },
+    {
+      "id": 505,
+      "course_name": "Financial Investment",
+      "img": "https://i.ibb.co/f9BHNLF/Rectangle-2-4.png",
+      "credit": 5,
+      "price": 12000,
+      "details": "Learn about personal finance, investments, and wealth management.",
+      "category": "Finance",
+      "phone_number": "(555) 567-8901",
+      "stock_quantity": 55
+    },
+    {
+      "id": 606,
+      "course_name": "Spanish for Beginners",
+      "img": "https://i.ibb.co/LzP1hk2/Rectangle-2-5.png",
+      "credit": 2,
+      "price": 17000,
+      "details": "Start your journey to learn Spanish with this beginner-friendly course.",
+      "category": "Language",
+      "phone_number": "(555) 678-9012",
+      "stock_quantity": 70
+    },
+    {
+      "id": 707,
+      "course_name": "Yoga and Meditation",
+      "img": "https://i.ibb.co/jkJrvP9/Rectangle-2-6.png",
+      "credit": 4,
+      "price": 21000,
+      "details": "Achieve inner peace and physical fitness through yoga and meditation.",
+      "category": "Health & Wellness",
+      "phone_number": "(555) 789-0123",
+      "stock_quantity": 65
+    },
+    {
+      "id": 808,
+      "course_name": "History of Ancient Civilizations",
+      "img": "https://i.ibb.co/DMRN34z/Rectangle-3.png",
+      "credit": 3,
+      "price": 23000,
+      "details": "Explore the fascinating history of ancient civilizations from around the world.",
+      "category": "History",
+      "phone_number": "(555) 890-1234",
+      "stock_quantity": 30
+    },
+    {
+      "id": 909,
+      "course_name": "Creative Writing Workshop",
+      "img": "https://i.ibb.co/6RxM7Ln/Rectangle-3-1.png",
+      "credit": 2,
+      "price": 5000,
+      "details": "Unleash your creativity with this hands-on creative writing workshop.",
+      "category": "Writing",
+      "phone_number": "(555) 901-2345",
+      "stock_quantity": 45
+    }
+  ]
+  
+  
