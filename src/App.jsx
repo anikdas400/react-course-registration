@@ -6,9 +6,18 @@ import Bookmarks from './components/Bookmarks/Bookmarks'
 
 function App() {
   const [bookmarks,setBookmarks]=useState([])
+
   const handleAddCourse = course =>{
-    const newBookmarks=[...bookmarks,course]
-    setBookmarks(newBookmarks)
+
+    const isExist = bookmarks.find((item)=>item.id == course.id)
+    if(isExist){
+     return alert('this item has been already exist')
+    }
+    else{
+      const newBookmarks=[...bookmarks,course]
+      setBookmarks(newBookmarks)
+    }
+    
    
   }
     
