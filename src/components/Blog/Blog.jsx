@@ -1,8 +1,9 @@
 import { FaDollarSign } from 'react-icons/fa';
 import { FaBookOpen } from 'react-icons/fa';
+import PropTypes from 'prop-types';
 
 const Blog = ({course,handleAddCourse}) => {
-    const{id,course_name,img,credit,price,details} =course;
+    const{course_name,img,credit,price,details} =course;
     return (
         <div className="mt-6 p-1 space-y-3">
             <img src={img} alt="" />
@@ -19,5 +20,10 @@ const Blog = ({course,handleAddCourse}) => {
         </div>
     );
 };
+
+Blog.propTypes={
+    handleAddCourse: PropTypes.func,
+    course: PropTypes.object.isRequired
+}
 
 export default Blog;

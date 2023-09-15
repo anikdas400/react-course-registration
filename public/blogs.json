@@ -16,7 +16,7 @@
       "img": "https://i.ibb.co/27rMgrk/Rectangle-2-1.png",
       "credit": 2,
       "price": 25000,
-      "details": "Explore the world of digital marketing and its core concepts.",
+      "details": "Explore the world with Database(MySQL) and its core concepts.",
       "category": "Marketing",
       "phone_number": "(555) 234-5678",
       "stock_quantity": 75
@@ -27,7 +27,7 @@
       "img": "https://i.ibb.co/PZGGnVk/Rectangle-2-2.png",
       "credit": 10,
       "price": 10000,
-      "details": "Master the fundamentals of graphic design and create stunning visuals.",
+      "details": "Master the C Programming and create stunning visuals and make your life shine.",
       "category": "Design",
       "phone_number": "(555) 345-6789",
       "stock_quantity": 40
@@ -38,7 +38,7 @@
       "img": "https://i.ibb.co/CJhXNXz/Rectangle-2-3.png",
       "credit": 5,
       "price": 19000,
-      "details": "Dive into the world of machine learning and build predictive models.",
+      "details": "Dive into the world of Algorithms and build predictive models.",
       "category": "Data Science",
       "phone_number": "(555) 456-7890",
       "stock_quantity": 60
@@ -49,7 +49,7 @@
       "img": "https://i.ibb.co/f9BHNLF/Rectangle-2-4.png",
       "credit": 5,
       "price": 12000,
-      "details": "Learn about personal finance, investments, and wealth management.",
+      "details": "Learn about C++ for DSA and wealth management.",
       "category": "Finance",
       "phone_number": "(555) 567-8901",
       "stock_quantity": 55
@@ -60,7 +60,7 @@
       "img": "https://i.ibb.co/LzP1hk2/Rectangle-2-5.png",
       "credit": 2,
       "price": 17000,
-      "details": "Start your journey to learn Spanish with this beginner-friendly course.",
+      "details": "Start your journey to learn Software Engineering with this beginner-friendly course.",
       "category": "Language",
       "phone_number": "(555) 678-9012",
       "stock_quantity": 70
@@ -71,7 +71,7 @@
       "img": "https://i.ibb.co/jkJrvP9/Rectangle-2-6.png",
       "credit": 4,
       "price": 21000,
-      "details": "Achieve inner peace and physical fitness through yoga and meditation.",
+      "details": "Achieve Problem-Solving mastering and won the world.",
       "category": "Health & Wellness",
       "phone_number": "(555) 789-0123",
       "stock_quantity": 65

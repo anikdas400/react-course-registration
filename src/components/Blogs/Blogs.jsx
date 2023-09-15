@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import Blog from "../Blog/Blog";
+import PropTypes from 'prop-types';
 
 
 const Blogs = ({handleAddCourse}) => {
@@ -24,5 +25,9 @@ const Blogs = ({handleAddCourse}) => {
         </div>
     );
 };
+Blogs.propTypes={
+    handleAddCourse: PropTypes.func
+    
+}
 
 export default Blogs;
