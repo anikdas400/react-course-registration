@@ -1,7 +1,7 @@
 [
     {
       "id": 101,
-      "course_name": "Introduction to Programming",
+      "course_name": "Introduction to OOP Python",
       "img": "https://i.ibb.co/n3V2Twx/Rectangle-2.png",
       "credit": 1,
       "price": 15000,
@@ -12,7 +12,7 @@
     },
     {
       "id": 202,
-      "course_name": "Digital Marketing Fundamentals",
+      "course_name": "Database (MySQL)",
       "img": "https://i.ibb.co/27rMgrk/Rectangle-2-1.png",
       "credit": 2,
       "price": 25000,
@@ -23,7 +23,7 @@
     },
     {
       "id": 303,
-      "course_name": "Graphic Design Essentials",
+      "course_name": "Introduction to C Programming",
       "img": "https://i.ibb.co/PZGGnVk/Rectangle-2-2.png",
       "credit": 10,
       "price": 10000,
@@ -34,7 +34,7 @@
     },
     {
       "id": 404,
-      "course_name": "Introduction to Machine Learning",
+      "course_name": "Introduction to Algorithms",
       "img": "https://i.ibb.co/CJhXNXz/Rectangle-2-3.png",
       "credit": 5,
       "price": 19000,
@@ -45,7 +45,7 @@
     },
     {
       "id": 505,
-      "course_name": "Financial Investment",
+      "course_name": "Introduction to C++ for DSA",
       "img": "https://i.ibb.co/f9BHNLF/Rectangle-2-4.png",
       "credit": 5,
       "price": 12000,
@@ -56,7 +56,7 @@
     },
     {
       "id": 606,
-      "course_name": "Spanish for Beginners",
+      "course_name": "Software Engineering",
       "img": "https://i.ibb.co/LzP1hk2/Rectangle-2-5.png",
       "credit": 2,
       "price": 17000,
@@ -67,7 +67,7 @@
     },
     {
       "id": 707,
-      "course_name": "Yoga and Meditation",
+      "course_name": "Problem-Solving Part",
       "img": "https://i.ibb.co/jkJrvP9/Rectangle-2-6.png",
       "credit": 4,
       "price": 21000,
@@ -78,7 +78,7 @@
     },
     {
       "id": 808,
-      "course_name": "History of Ancient Civilizations",
+      "course_name": "Basic Data Structures",
       "img": "https://i.ibb.co/DMRN34z/Rectangle-3.png",
       "credit": 3,
       "price": 23000,
@@ -89,7 +89,7 @@
     },
     {
       "id": 909,
-      "course_name": "Creative Writing Workshop",
+      "course_name": "AWS, Cloud Computing",
       "img": "https://i.ibb.co/6RxM7Ln/Rectangle-3-1.png",
       "credit": 2,
       "price": 5000,

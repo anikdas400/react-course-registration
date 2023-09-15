@@ -3,20 +3,21 @@ import { useState } from "react";
 import Blog from "../Blog/Blog";
 
 
-const Blogs = () => {
-    const [blogs,setBlogs] =useState([])
+const Blogs = ({handleAddCourse}) => {
+    const [courses,setCourses] =useState([])
     useEffect(()=>{
         fetch('blogs.json')
         .then(res =>res.json())
-        .then(data=>setBlogs(data))
+        .then(data=>setCourses(data))
     },[])
     return (
         <div className="md:w-3/4 grid md:grid-cols-3 sm:grid-cols-2 sm:px-2 gap-2 ">
             
             {
-                blogs.map(blog => <Blog 
-                    key={blog.id}
-                    blog={blog}
+                courses.map(course => <Blog 
+                    key={course.id}
+                    course={course}
+                    handleAddCourse={handleAddCourse}
                     ></Blog>)
             }
             
