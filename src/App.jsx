@@ -16,7 +16,7 @@ function App() {
     let count = course.credit
     let price =course.price
     if(isExist){
-     return alert('this Course has been already exist')
+     return alert('This Course has been already exist')
     }
     else{
       bookmarks.forEach((item)=>{
@@ -28,7 +28,7 @@ function App() {
       const totalremaining = 20-count;
 
       if(count > 20){
-        return alert("your Credit hours has been finished")
+        return alert("Your Credit hours has been finished")
       }
 
       

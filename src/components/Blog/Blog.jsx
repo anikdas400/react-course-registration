@@ -13,8 +13,8 @@ const Blog = ({course,handleAddCourse}) => {
             <span className='ml-6'><FaDollarSign></FaDollarSign></span><h2 className="text-base mr-2 font-medium text-slate-600">price: {price}</h2>
             <span className='ml-6'><FaBookOpen></FaBookOpen></span><h3 className="text-base  font-medium text-slate-600">credit: {credit} hr</h3> 
             </div>
-            <div className="text-center mt-4 p-3">
-            <button onClick={()=>handleAddCourse(course)} className="p-3 rounded-xl bg-sky-600 w-full text-white">Select</button>
+            <div className="text-center mt-4 ">
+            <button onClick={()=>handleAddCourse(course)} className="p-3  hover:bg-violet-600 rounded-xl bg-sky-600 w-full text-white">Select</button>
             </div>
             
         </div>
